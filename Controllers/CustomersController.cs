@@ -83,7 +83,6 @@ namespace Vidly.Controllers
             };
 
             return View("CustomerForm", viewModel);
-            return Content("test");
         }
 
         // GET: Customers
